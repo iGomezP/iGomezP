@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iGomezP
-- 👀 I’m interested in learning Web Dev, Apps Dev, Dev Ops, IA
-- 🌱 I’m currently learning: React, JS, CSS, C#.
+- 👀 I’m interested in learning Web Dev, Apps Dev, Dev Ops, Cloud.
+- 🌱 I’m currently learning: React, JS, CSS, C#, NextJs.
 - 💞️ I’m looking to collaborate on: I'm not really sure but I'm open to invitations =)
 - 📫 How to reach me: i.gomezp@outlook.com and Discord: HGVakaz#4726
 
